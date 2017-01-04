@@ -1,0 +1,5 @@
+use_frameworks!
+target 'GNLazy_Tests' do
+  pod 'GNLazy', :path => '../'
+
+end
